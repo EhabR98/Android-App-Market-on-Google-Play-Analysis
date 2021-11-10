@@ -271,7 +271,7 @@ plotly.offline.iplot(data)
 
 
     Number of categories =  33
-
+![png](newplot.png)
 
 
 <div id="50f5674b-b1a0-4f2c-9dfb-0b278ccac30d" style="height: 525px; width: 100%;" class="plotly-graph-div"></div><script type="text/javascript">require(["plotly"], function(Plotly) { window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("50f5674b-b1a0-4f2c-9dfb-0b278ccac30d", [{"x": ["FAMILY", "GAME", "TOOLS", "BUSINESS", "MEDICAL", "PERSONALIZATION", "PRODUCTIVITY", "LIFESTYLE", "FINANCE", "SPORTS", "COMMUNICATION", "HEALTH_AND_FITNESS", "PHOTOGRAPHY", "NEWS_AND_MAGAZINES", "SOCIAL", "BOOKS_AND_REFERENCE", "TRAVEL_AND_LOCAL", "SHOPPING", "DATING", "VIDEO_PLAYERS", "MAPS_AND_NAVIGATION", "EDUCATION", "FOOD_AND_DRINK", "ENTERTAINMENT", "AUTO_AND_VEHICLES", "LIBRARIES_AND_DEMO", "WEATHER", "HOUSE_AND_HOME", "EVENTS", "ART_AND_DESIGN", "PARENTING", "COMICS", "BEAUTY"], "y": [1832, 959, 827, 420, 395, 376, 374, 369, 345, 325, 315, 288, 281, 254, 239, 222, 219, 202, 171, 163, 131, 119, 112, 102, 85, 84, 79, 74, 64, 64, 60, 56, 53], "type": "bar", "uid": "10882d3f-186c-477a-916b-fa7b44dd590e"}], {}, {"showLink": true, "linkText": "Export to plot.ly", "plotlyServerURL": "https://plot.ly"})});</script><script type="text/javascript">window.addEventListener("resize", function(){window._Plotly.Plots.resize(document.getElementById("50f5674b-b1a0-4f2c-9dfb-0b278ccac30d"));});</script>
@@ -329,7 +329,7 @@ plotly.offline.iplot({'data': data, 'layout': layout})
 ```
 
     Average app rating =  4.173243045387994
-![png](newplot.png)
+![png](newplot(1).png)
 
 
 ```python
