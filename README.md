@@ -267,9 +267,6 @@ plotly.offline.iplot(data)
 ```
 
 
-<script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script><script type="text/javascript">if (window.MathJax) {MathJax.Hub.Config({SVG: {font: "STIX-Web"}});}</script><script>requirejs.config({paths: { 'plotly': ['https://cdn.plot.ly/plotly-latest.min']},});if(!window._Plotly) {require(['plotly'],function(plotly) {window._Plotly=plotly;});}</script>
-
-
     Number of categories =  33
 ![png](newplot.png)
 
@@ -329,7 +326,7 @@ plotly.offline.iplot({'data': data, 'layout': layout})
 ```
 
     Average app rating =  4.173243045387994
-![png](newplot(1).png)
+![png](newplot (1).png)
 
 
 ```python
@@ -723,7 +720,7 @@ data = [trace0, trace1]
 plotly.offline.iplot({'data': data, 'layout': layout})
 ```
 
-![png](newplot(2).png)
+![png](newplot (2).png)
 
 ```python
 %%nose
